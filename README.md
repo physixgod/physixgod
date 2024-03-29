@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about Software Engineering, and you
 
 ## Most Used Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=physixgod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=physixgod&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
